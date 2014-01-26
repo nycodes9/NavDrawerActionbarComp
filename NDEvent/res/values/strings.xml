@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nextdoor</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="event_post_title">TITLE</string>
+    <string name="event_post_datetime">DATE AND TIME</string>
+    <string name="evnt_post_calendarday">11/08/2013</string>
+    <string name="event_post_time">12:00PM</string>
+    <string name="event_post_endtime">Add and end time</string>
+    <string name="event_post_desc">DESCRIPTION</string>
+    <string name="event_post_details">DETAILS</string>
+    <string name="event_post_rsvp">RSVP</string>
+    <string name="event_post_allowrsvp">Allow RSVPs for this event.</string>
+    <string name="event_post_cancel">CANCEL</string>
+    <string name="event_post_new">ADD A NEW EVENT</string>
+    <string name="event_details">EVENT DETAILS</string>
+    <string name="event_attended">ATTENDED - 4</string>
+    <string name="event_photos">PHOTOS - 0</string>
+    <string name="event_photos_label">PHOTOS</string>
+    
+    <string name="event_empty">No upcoming events</string>
+    
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    
+    <string-array name="categories">
+        <item>Events</item>
+        <item>Classifieds</item>
+        <item>Documents</item>
+        <item>Free Items</item>
+        <item>General</item>
+        <item>Lost &amp; Found</item>
+        <item>Recommendations</item>
+        <item>Groups</item>
+    </string-array>
+        <string name="frarment_identifier">Fragment Identifier</string>
+        <string name="new_event_on">on</string>
+        <string name="new_event_at">at</string>
+        <string name="flag_event">FLAG EVENT</string>
+        <string name="add_to_cal">ADD TO CAL</string>
+        <string name="event_details_no_photos">No Photos Have been added to this event.</string>
+
+</resources>
