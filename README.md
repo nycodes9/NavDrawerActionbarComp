@@ -9,3 +9,5 @@ Main motivation to use
 * for SDK 2.3.3 and above.
 
 Also used Loaders framework http://developer.android.com/guide/components/loaders.html with support libray v4  
+
+sample video - https://drive.google.com/file/d/0B0arfgEhMmGPT29xNFBEWkJaN3M/edit?usp=sharing
